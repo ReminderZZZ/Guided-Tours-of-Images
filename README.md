@@ -1,5 +1,5 @@
 # Guided-Tours-of-Images
-DATASCI 792 Project of University of Auckland
+DATASCI 792 Project of University of Auckland.
 
 Make sure all the R files are in the same directory.
 
